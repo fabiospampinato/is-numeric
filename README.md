@@ -1,8 +1,7 @@
 # isNumeric
 
-![Dependencies](https://img.shields.io/librariesio/github/fabiospampinato/is-numeric.svg)
 ![Issues](https://img.shields.io/github/issues/fabiospampinato/is-numeric.svg)
-![Release](https://img.shields.io/github/release/fabiospampinato/is-numeric.svg)
+[![NPM version](https://img.shields.io/npm/v/@fabiospampinato/is-numeric.svg)](https://www.npmjs.com/package/@fabiospampinato/is-numeric)
 
 Checks if a variable represents a numeric value.
 
