@@ -1,7 +1,7 @@
 
 /* IS NUMERIC */
 
-function isNumeric( x ) {
+function isNumeric ( x ) {
 
   return !isNaN ( parseFloat ( x ) ) && Number.isFinite ( Number ( x ) );
 
