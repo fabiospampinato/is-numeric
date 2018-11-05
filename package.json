@@ -1,6 +1,6 @@
 {
   "name": "@fabiospampinato/is-numeric",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Checks if a variable represents a numeric value.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
