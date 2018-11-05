@@ -9,4 +9,4 @@ function isNumeric ( x ) {
 
 /* EXPORT */
 
-export default isNumeric;
+export = Object.assign ( isNumeric, { default: isNumeric } );
