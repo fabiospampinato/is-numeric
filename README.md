@@ -4,8 +4,8 @@ Checks if a variable represents a numeric value.
 
 ## Install
 
-```shell
-$ npm install --save @fabiospampinato/is-numeric
+```sh
+npm install --save @fabiospampinato/is-numeric
 ```
 
 ## Usage

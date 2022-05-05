@@ -1,11 +1,11 @@
 
-/* IS NUMERIC */
+/* MAIN */
 
-function isNumeric ( x ) {
+const isNumeric = ( value: string ): boolean => {
 
-  return !isNaN ( parseFloat ( x ) ) && Number.isFinite ( Number ( x ) );
+  return !isNaN ( parseFloat ( value ) ) && Number.isFinite ( Number ( value ) );
 
-}
+};
 
 /* EXPORT */
 
